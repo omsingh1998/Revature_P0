@@ -5,7 +5,7 @@ to run mongo shell
 C:\Program Files\MongoDB\Server\5.0\bin\mongo"
 
 Project 0 :-
-Queries
+				Queries
 
 1) Write a MongoDB query to display all the documents in the collection restaurants.
 
