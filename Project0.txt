@@ -4,6 +4,9 @@ to start mongod server
 to run mongo shell
 C:\Program Files\MongoDB\Server\5.0\bin\mongo"
 
+To upload the data in mongodb
+"C:\Program Files\MongoDB\Server\mongodb-database-tools\bin\mongoimport" --db dbrestaurants --collection restaurant --type json --file restaurants.json
+
 Project 0 :-
 				Queries
 
